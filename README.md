@@ -1,5 +1,5 @@
 # 🌐 PCA & HCPC Shiny App
-
+https://ntducphd.shinyapps.io/pca_plus/
 This Shiny App allows users to:
 - Upload a dataset (CSV format) of numeric traits (e.g. from plant breeding or phenotyping studies)
 - Perform PCA (Principal Component Analysis)
