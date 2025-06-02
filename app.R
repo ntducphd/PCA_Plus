@@ -9,7 +9,7 @@ library(psych)
 library(corrplot)
 
 ui <- fluidPage(
-  titlePanel("🎯 PCA & HCPC Analysis - Professional Version"),
+  titlePanel("PCA & HCPC Analysis ver.1.0 — Developed by Vietnamese Association at Kyushu University"),
 
   sidebarLayout(
     sidebarPanel(
